@@ -4,11 +4,7 @@ A ticketing tracker built in **Excel** to practise the day-to-day workflow of an
 
 > This is a personal learning project, not a production system. The SLA targets and sample tickets are examples I chose for practice.
 
-## Screenshots
 
-<!-- Replace these with your own screenshots after uploading them to the repo -->
-![Tickets sheet](screenshots/tickets.png)
-![Dashboard](screenshots/dashboard.png)
 
 ## Features
 
